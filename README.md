@@ -2,7 +2,6 @@
 
 🎓 Étudiant en 3ᵉ année de **BUT MMI** (Métiers du Multimédia et de l’Internet)  
 💻 Développeur **Fullstack** passionné par le web et les technologies modernes  
-🚀 À la recherche d’un **stage** pour consolider mes compétences et contribuer à des projets innovants  
 
 ---
 
