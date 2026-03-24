@@ -1,6 +1,6 @@
 # Salut, moi c'est Maïro 👋
 
-Étudiant en 3ᵉ année de **BUT MMI** (parcours Développement web et dispositifs interactifs) à l'IUT de Béziers  
+Étudiant en 3ᵉ année de **BUT MMI** (parcours Développement web et dispositifs interactifs)<br>
 **Recherche une alternance de 3 ans à partir de la rentrée 2026**
 
 <details>
